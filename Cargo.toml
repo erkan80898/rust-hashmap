@@ -1,5 +1,5 @@
 [package]
-name = "rust_hashmap"
+name = "rust-hashmap"
 version = "0.1.0"
 authors = ["Erkan"]
 edition = "2018"
