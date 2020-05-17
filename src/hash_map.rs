@@ -8,7 +8,7 @@ use std::borrow::Borrow;
 /// The Hashmap also implements the IntoIterator trait, allowing it to be
 /// used in rust's for in syntax
 ///
-/// Separate chaining is used to deal with coalitions
+/// Separate chaining is used to deal with collisions
 ///
 /// Initial size is 1024
 ///
